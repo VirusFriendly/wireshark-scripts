@@ -4,7 +4,7 @@ This is part of a collection of *-scripts repositories. Each of which are module
 
 ## Installation
 
-You need to first have Wireshark installed then place the scripts in the following locations.
+You need to first have Wireshark installed and make sure it supports LUA (See: https://wiki.wireshark.org/Lua#Getting_Started). Then place the scripts in the following locations.
 
 Unix:
 
