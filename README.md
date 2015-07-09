@@ -27,6 +27,8 @@ This is for decoding a specific malware's c2 traffic that used the inital bytes 
 
 This is for decoding packet captures of PwnAdventure 3, an MMORPG game designed to be hacked. My strategy was to reverse engineer the protocol and write a proxy allowing for crazy features. Sadly this strategy was not a quick as other strategies that involved reversing the client, and I didn't have time to write the proxy. However, reverse engineering protocols is always fun.
 
-I do not plan to reverse engineer more of the protocol as there are always new protocols to reverse and new projects work on. However since this challenge, I have learned how to better craft my scripts and will update the script.
+Sample traffic is included in samples/gits15.tar.gz
+
+Since this challenge, I have learned how to better craft my scripts and will update the script, and reverse engineer more of the protocol.
 
 http://www.iseedeadpackets.net/2015/01/pwnadventure-3.html
