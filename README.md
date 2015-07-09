@@ -2,6 +2,8 @@
 
 This is part of a collection of *-scripts repositories. Each of which are modules for a larger framework. In this case Wireshark.
 
+Website for this project: http://www.erisresearch.org/#Wireshark%20Modules
+
 ## Installation
 
 You need to first have Wireshark installed and make sure it supports LUA (See: https://wiki.wireshark.org/Lua#Getting_Started). Then place the scripts in the following locations.
